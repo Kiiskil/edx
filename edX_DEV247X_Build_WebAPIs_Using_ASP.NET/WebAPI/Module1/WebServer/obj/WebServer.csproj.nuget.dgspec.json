@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Prokkis\\edx\\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\\WebAPI\\Module1\\WebServer\\WebServer.csproj": {}
+  },
+  "projects": {
+    "G:\\Prokkis\\edx\\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\\WebAPI\\Module1\\WebServer\\WebServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Prokkis\\edx\\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\\WebAPI\\Module1\\WebServer\\WebServer.csproj",
+        "projectName": "WebServer",
+        "projectPath": "G:\\Prokkis\\edx\\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\\WebAPI\\Module1\\WebServer\\WebServer.csproj",
+        "packagesPath": "C:\\Users\\iirol\\.nuget\\packages\\",
+        "outputPath": "G:\\Prokkis\\edx\\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\\WebAPI\\Module1\\WebServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\iirol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

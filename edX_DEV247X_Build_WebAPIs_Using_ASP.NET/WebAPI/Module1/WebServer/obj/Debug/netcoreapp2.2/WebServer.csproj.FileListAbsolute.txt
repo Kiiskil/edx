@@ -1,0 +1,6 @@
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\WebServer\obj\Debug\netcoreapp2.2\WebServer.csprojAssemblyReference.cache
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\WebServer\obj\Debug\netcoreapp2.2\WebServer.csproj.CoreCompileInputs.cache
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\WebServer\obj\Debug\netcoreapp2.2\WebServer.RazorAssemblyInfo.cache
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\WebServer\obj\Debug\netcoreapp2.2\WebServer.RazorAssemblyInfo.cs
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\WebServer\obj\Debug\netcoreapp2.2\WebServer.AssemblyInfoInputs.cache
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\WebServer\obj\Debug\netcoreapp2.2\WebServer.AssemblyInfo.cs

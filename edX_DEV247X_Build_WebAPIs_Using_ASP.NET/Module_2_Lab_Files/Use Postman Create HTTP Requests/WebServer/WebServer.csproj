@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.1"/>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="2.1" />
+  </ItemGroup>
+
+  <!-- <ItemGroup>
+    <PackageReference Include="AspNetCore" Version="0.0.41">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="2.2" />
+  </ItemGroup> -->
+
+</Project>
+ 

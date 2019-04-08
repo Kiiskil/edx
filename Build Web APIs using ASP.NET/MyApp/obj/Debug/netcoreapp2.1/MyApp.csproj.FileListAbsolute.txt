@@ -1,0 +1,11 @@
+G:\Prokkis\edx\Build Web APIs using ASP.NET\MyApp\bin\Debug\netcoreapp2.1\MyApp.deps.json
+G:\Prokkis\edx\Build Web APIs using ASP.NET\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.json
+G:\Prokkis\edx\Build Web APIs using ASP.NET\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.dev.json
+G:\Prokkis\edx\Build Web APIs using ASP.NET\MyApp\bin\Debug\netcoreapp2.1\MyApp.dll
+G:\Prokkis\edx\Build Web APIs using ASP.NET\MyApp\bin\Debug\netcoreapp2.1\MyApp.pdb
+G:\Prokkis\edx\Build Web APIs using ASP.NET\MyApp\obj\Debug\netcoreapp2.1\MyApp.csprojAssemblyReference.cache
+G:\Prokkis\edx\Build Web APIs using ASP.NET\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CoreCompileInputs.cache
+G:\Prokkis\edx\Build Web APIs using ASP.NET\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfoInputs.cache
+G:\Prokkis\edx\Build Web APIs using ASP.NET\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfo.cs
+G:\Prokkis\edx\Build Web APIs using ASP.NET\MyApp\obj\Debug\netcoreapp2.1\MyApp.dll
+G:\Prokkis\edx\Build Web APIs using ASP.NET\MyApp\obj\Debug\netcoreapp2.1\MyApp.pdb

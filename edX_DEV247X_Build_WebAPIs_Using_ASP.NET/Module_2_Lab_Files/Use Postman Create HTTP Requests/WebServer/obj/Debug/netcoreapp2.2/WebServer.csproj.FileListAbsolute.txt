@@ -1,0 +1,11 @@
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\WebServer\bin\Debug\netcoreapp2.2\WebServer.deps.json
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\WebServer\bin\Debug\netcoreapp2.2\WebServer.dll
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\WebServer\bin\Debug\netcoreapp2.2\WebServer.pdb
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\WebServer\obj\Debug\netcoreapp2.2\WebServer.csprojAssemblyReference.cache
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\WebServer\obj\Debug\netcoreapp2.2\WebServer.csproj.CoreCompileInputs.cache
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\WebServer\obj\Debug\netcoreapp2.2\WebServer.AssemblyInfoInputs.cache
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\WebServer\obj\Debug\netcoreapp2.2\WebServer.AssemblyInfo.cs
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\WebServer\obj\Debug\netcoreapp2.2\WebServer.dll
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\WebServer\obj\Debug\netcoreapp2.2\WebServer.pdb
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\WebServer\bin\Debug\netcoreapp2.2\WebServer.runtimeconfig.json
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Use Postman Create HTTP Requests\WebServer\bin\Debug\netcoreapp2.2\WebServer.runtimeconfig.dev.json

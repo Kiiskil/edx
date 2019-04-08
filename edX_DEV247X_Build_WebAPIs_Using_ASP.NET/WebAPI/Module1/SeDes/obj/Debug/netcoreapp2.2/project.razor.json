@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "g:\\Prokkis\\edx\\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\\WebAPI\\Module1\\SeDes\\SeDes.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

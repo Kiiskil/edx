@@ -1,0 +1,11 @@
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\bin\Debug\netcoreapp2.2\SeDes.deps.json
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\bin\Debug\netcoreapp2.2\SeDes.runtimeconfig.json
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\bin\Debug\netcoreapp2.2\SeDes.runtimeconfig.dev.json
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\bin\Debug\netcoreapp2.2\SeDes.dll
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\bin\Debug\netcoreapp2.2\SeDes.pdb
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\obj\Debug\netcoreapp2.2\SeDes.csprojAssemblyReference.cache
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\obj\Debug\netcoreapp2.2\SeDes.csproj.CoreCompileInputs.cache
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\obj\Debug\netcoreapp2.2\SeDes.AssemblyInfoInputs.cache
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\obj\Debug\netcoreapp2.2\SeDes.AssemblyInfo.cs
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\obj\Debug\netcoreapp2.2\SeDes.dll
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\WebAPI\Module1\SeDes\obj\Debug\netcoreapp2.2\SeDes.pdb
