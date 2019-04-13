@@ -1,0 +1,4 @@
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp2.1\WebServer.csprojAssemblyReference.cache
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp2.1\WebServer.csproj.CoreCompileInputs.cache
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp2.1\WebServer.AssemblyInfoInputs.cache
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\WebServer\obj\Debug\netcoreapp2.1\WebServer.AssemblyInfo.cs

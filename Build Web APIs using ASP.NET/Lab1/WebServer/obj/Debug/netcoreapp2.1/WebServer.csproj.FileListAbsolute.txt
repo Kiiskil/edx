@@ -1,0 +1,14 @@
+G:\Prokkis\edx\Build Web APIs using ASP.NET\Lab1\WebServer\bin\Debug\netcoreapp2.1\WebServer.deps.json
+G:\Prokkis\edx\Build Web APIs using ASP.NET\Lab1\WebServer\bin\Debug\netcoreapp2.1\WebServer.runtimeconfig.json
+G:\Prokkis\edx\Build Web APIs using ASP.NET\Lab1\WebServer\bin\Debug\netcoreapp2.1\WebServer.runtimeconfig.dev.json
+G:\Prokkis\edx\Build Web APIs using ASP.NET\Lab1\WebServer\bin\Debug\netcoreapp2.1\WebServer.dll
+G:\Prokkis\edx\Build Web APIs using ASP.NET\Lab1\WebServer\bin\Debug\netcoreapp2.1\WebServer.pdb
+G:\Prokkis\edx\Build Web APIs using ASP.NET\Lab1\WebServer\obj\Debug\netcoreapp2.1\WebServer.csprojAssemblyReference.cache
+G:\Prokkis\edx\Build Web APIs using ASP.NET\Lab1\WebServer\obj\Debug\netcoreapp2.1\WebServer.csproj.CoreCompileInputs.cache
+G:\Prokkis\edx\Build Web APIs using ASP.NET\Lab1\WebServer\obj\Debug\netcoreapp2.1\WebServer.RazorAssemblyInfo.cache
+G:\Prokkis\edx\Build Web APIs using ASP.NET\Lab1\WebServer\obj\Debug\netcoreapp2.1\WebServer.RazorAssemblyInfo.cs
+G:\Prokkis\edx\Build Web APIs using ASP.NET\Lab1\WebServer\obj\Debug\netcoreapp2.1\WebServer.AssemblyInfoInputs.cache
+G:\Prokkis\edx\Build Web APIs using ASP.NET\Lab1\WebServer\obj\Debug\netcoreapp2.1\WebServer.AssemblyInfo.cs
+G:\Prokkis\edx\Build Web APIs using ASP.NET\Lab1\WebServer\obj\Debug\netcoreapp2.1\WebServer.RazorTargetAssemblyInfo.cache
+G:\Prokkis\edx\Build Web APIs using ASP.NET\Lab1\WebServer\obj\Debug\netcoreapp2.1\WebServer.dll
+G:\Prokkis\edx\Build Web APIs using ASP.NET\Lab1\WebServer\obj\Debug\netcoreapp2.1\WebServer.pdb

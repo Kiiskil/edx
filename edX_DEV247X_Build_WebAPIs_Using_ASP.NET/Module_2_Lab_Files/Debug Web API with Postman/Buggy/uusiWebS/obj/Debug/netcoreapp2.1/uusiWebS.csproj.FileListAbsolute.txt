@@ -1,0 +1,14 @@
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\uusiWebS\bin\Debug\netcoreapp2.1\uusiWebS.deps.json
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\uusiWebS\bin\Debug\netcoreapp2.1\uusiWebS.runtimeconfig.json
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\uusiWebS\bin\Debug\netcoreapp2.1\uusiWebS.runtimeconfig.dev.json
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\uusiWebS\bin\Debug\netcoreapp2.1\uusiWebS.dll
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\uusiWebS\bin\Debug\netcoreapp2.1\uusiWebS.pdb
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\uusiWebS\obj\Debug\netcoreapp2.1\uusiWebS.csprojAssemblyReference.cache
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\uusiWebS\obj\Debug\netcoreapp2.1\uusiWebS.csproj.CoreCompileInputs.cache
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\uusiWebS\obj\Debug\netcoreapp2.1\uusiWebS.RazorAssemblyInfo.cache
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\uusiWebS\obj\Debug\netcoreapp2.1\uusiWebS.RazorAssemblyInfo.cs
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\uusiWebS\obj\Debug\netcoreapp2.1\uusiWebS.AssemblyInfoInputs.cache
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\uusiWebS\obj\Debug\netcoreapp2.1\uusiWebS.AssemblyInfo.cs
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\uusiWebS\obj\Debug\netcoreapp2.1\uusiWebS.RazorTargetAssemblyInfo.cache
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\uusiWebS\obj\Debug\netcoreapp2.1\uusiWebS.dll
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_2_Lab_Files\Debug Web API with Postman\Buggy\uusiWebS\obj\Debug\netcoreapp2.1\uusiWebS.pdb

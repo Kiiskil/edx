@@ -1,0 +1,14 @@
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Extract Action Parameters\webservertoimi\bin\Debug\netcoreapp2.1\webservertoimi.deps.json
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Extract Action Parameters\webservertoimi\bin\Debug\netcoreapp2.1\webservertoimi.runtimeconfig.json
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Extract Action Parameters\webservertoimi\bin\Debug\netcoreapp2.1\webservertoimi.runtimeconfig.dev.json
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Extract Action Parameters\webservertoimi\bin\Debug\netcoreapp2.1\webservertoimi.dll
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Extract Action Parameters\webservertoimi\bin\Debug\netcoreapp2.1\webservertoimi.pdb
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Extract Action Parameters\webservertoimi\obj\Debug\netcoreapp2.1\webservertoimi.csprojAssemblyReference.cache
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Extract Action Parameters\webservertoimi\obj\Debug\netcoreapp2.1\webservertoimi.csproj.CoreCompileInputs.cache
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Extract Action Parameters\webservertoimi\obj\Debug\netcoreapp2.1\webservertoimi.RazorAssemblyInfo.cache
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Extract Action Parameters\webservertoimi\obj\Debug\netcoreapp2.1\webservertoimi.RazorAssemblyInfo.cs
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Extract Action Parameters\webservertoimi\obj\Debug\netcoreapp2.1\webservertoimi.AssemblyInfoInputs.cache
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Extract Action Parameters\webservertoimi\obj\Debug\netcoreapp2.1\webservertoimi.AssemblyInfo.cs
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Extract Action Parameters\webservertoimi\obj\Debug\netcoreapp2.1\webservertoimi.RazorTargetAssemblyInfo.cache
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Extract Action Parameters\webservertoimi\obj\Debug\netcoreapp2.1\webservertoimi.dll
+g:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Extract Action Parameters\webservertoimi\obj\Debug\netcoreapp2.1\webservertoimi.pdb

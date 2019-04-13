@@ -14,3 +14,14 @@ c:\Source\edX\Course 001\Labs\007\Custom Route\WebServer\bin\Debug\netcoreapp1.1
 c:\Source\edX\Course 001\Labs\007\Custom Route\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
 c:\Source\edX\Course 001\Labs\007\Custom Route\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
 c:\Source\edX\Course 001\Labs\007\Custom Route\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Custom Route\WebServer\bin\Debug\netcoreapp1.1\WebServer.deps.json
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Custom Route\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.json
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Custom Route\WebServer\bin\Debug\netcoreapp1.1\WebServer.runtimeconfig.dev.json
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Custom Route\WebServer\bin\Debug\netcoreapp1.1\WebServer.dll
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Custom Route\WebServer\bin\Debug\netcoreapp1.1\WebServer.pdb
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Custom Route\WebServer\obj\Debug\netcoreapp1.1\WebServer.csprojAssemblyReference.cache
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Custom Route\WebServer\obj\Debug\netcoreapp1.1\WebServer.csproj.CoreCompileInputs.cache
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Custom Route\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfoInputs.cache
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Custom Route\WebServer\obj\Debug\netcoreapp1.1\WebServer.AssemblyInfo.cs
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Custom Route\WebServer\obj\Debug\netcoreapp1.1\WebServer.dll
+G:\Prokkis\edx\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\Module_3_Lab_Files\Custom Route\WebServer\obj\Debug\netcoreapp1.1\WebServer.pdb
