@@ -21,12 +21,20 @@ namespace WebServer.Controllers {
             }
         }
 
+        // [HttpGet("{id}")]
+        // public Product Get(int id) {
+        //     if (FakeData.Products.ContainsKey(id))
+        //         return FakeData.Products[id];
+        //     else
+        //         return null;
+        // }
+
         [HttpGet("{id}")]
-        public Product Get(int id) {
+        public ActionResult Get(int id) {
             if (FakeData.Products.ContainsKey(id))
-                return FakeData.Products[id];
+                return Ok(FakeData.Products[id]);
             else
-                return null;
+                return NotFound();
         }
 
         [HttpGet("from/{low}/to/{high}")]
@@ -36,28 +44,58 @@ namespace WebServer.Controllers {
             return products;
         }
 
+        // [HttpPost]
+        // public Product Post([FromBody]Product product) {
+        //     product.ID = FakeData.Products.Keys.Max() + 1;
+        //     FakeData.Products.Add(product.ID, product);
+        //     return product; // contains the new ID
+        // }
+
         [HttpPost]
-        public Product Post([FromBody]Product product) {
+        public ActionResult Post([FromBody]Product product) {
             product.ID = FakeData.Products.Keys.Max() + 1;
             FakeData.Products.Add(product.ID, product);
-            return product; // contains the new ID
+            return Created($"api/products/{product.ID}", product); // contains the new ID
         }
 
+        // [HttpPut("{id}")]
+        // public void Put(int id, [FromBody]Product product) {
+        //     if (FakeData.Products.ContainsKey(id)) {
+        //         var target = FakeData.Products[id];
+        //         target.ID = product.ID;
+        //         target.Name = product.Name;
+        //         target.Price = product.Price;
+        //     }
+        // }
+
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody]Product product) {
+        public ActionResult Put(int id, [FromBody]Product product) {
             if (FakeData.Products.ContainsKey(id)) {
                 var target = FakeData.Products[id];
                 target.ID = product.ID;
                 target.Name = product.Name;
                 target.Price = product.Price;
+                return Ok();
+            } else {
+                return NotFound();
             }
         }
 
         [HttpDelete("{id}")]
-        public void Delete(int id) {
+        public ActionResult Delete(int id) {
             if (FakeData.Products.ContainsKey(id)) {
                 FakeData.Products.Remove(id);
+                return Ok();
+            } else {
+                return NotFound();
             }
         }
+
+        // [HttpDelete("{id}")]
+        // public void Delete(int id) {
+        //     if (FakeData.Products.ContainsKey(id)) {
+        //         FakeData.Products.Remove(id);
+        //     }
+        // }
     }
 }

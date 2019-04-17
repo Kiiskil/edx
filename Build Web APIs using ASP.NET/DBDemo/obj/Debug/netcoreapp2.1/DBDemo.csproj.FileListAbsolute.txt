@@ -1,0 +1,14 @@
+G:\Prokkis\edx\Build Web APIs using ASP.NET\DBDemo\bin\Debug\netcoreapp2.1\DBDemo.deps.json
+G:\Prokkis\edx\Build Web APIs using ASP.NET\DBDemo\bin\Debug\netcoreapp2.1\DBDemo.runtimeconfig.json
+G:\Prokkis\edx\Build Web APIs using ASP.NET\DBDemo\bin\Debug\netcoreapp2.1\DBDemo.runtimeconfig.dev.json
+g:\Prokkis\edx\Build Web APIs using ASP.NET\DBDemo\bin\Debug\netcoreapp2.1\DBDemo.dll
+g:\Prokkis\edx\Build Web APIs using ASP.NET\DBDemo\bin\Debug\netcoreapp2.1\DBDemo.pdb
+g:\Prokkis\edx\Build Web APIs using ASP.NET\DBDemo\obj\Debug\netcoreapp2.1\DBDemo.csprojAssemblyReference.cache
+g:\Prokkis\edx\Build Web APIs using ASP.NET\DBDemo\obj\Debug\netcoreapp2.1\DBDemo.csproj.CoreCompileInputs.cache
+g:\Prokkis\edx\Build Web APIs using ASP.NET\DBDemo\obj\Debug\netcoreapp2.1\DBDemo.RazorAssemblyInfo.cache
+g:\Prokkis\edx\Build Web APIs using ASP.NET\DBDemo\obj\Debug\netcoreapp2.1\DBDemo.RazorAssemblyInfo.cs
+g:\Prokkis\edx\Build Web APIs using ASP.NET\DBDemo\obj\Debug\netcoreapp2.1\DBDemo.AssemblyInfoInputs.cache
+g:\Prokkis\edx\Build Web APIs using ASP.NET\DBDemo\obj\Debug\netcoreapp2.1\DBDemo.AssemblyInfo.cs
+g:\Prokkis\edx\Build Web APIs using ASP.NET\DBDemo\obj\Debug\netcoreapp2.1\DBDemo.RazorTargetAssemblyInfo.cache
+g:\Prokkis\edx\Build Web APIs using ASP.NET\DBDemo\obj\Debug\netcoreapp2.1\DBDemo.dll
+g:\Prokkis\edx\Build Web APIs using ASP.NET\DBDemo\obj\Debug\netcoreapp2.1\DBDemo.pdb

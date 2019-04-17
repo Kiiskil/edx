@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "g:\\Prokkis\\edx\\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\\Module_3_Lab_Files\\Create Controller for the Given Client\\Start\\webservertoimi\\webservertoimi.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
