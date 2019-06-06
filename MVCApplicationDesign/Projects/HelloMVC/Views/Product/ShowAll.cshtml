@@ -1,0 +1,28 @@
+<!--Strongly-typed model view-->
+<!--Made to carry objects-->
+@model List<HelloMVC.Models.Product>
+
+<html>
+    <body>
+        <h1>
+            <!--Loosely-typed model view-->
+            <!--Made to carry miscellanious data-->
+            @ViewData["Heading"]
+        </h1>
+        <table border="1">
+            <tr>
+                <td>ID</td>
+                <td>Name</td>
+                <td>Price</td>
+            </tr>
+            @foreach (var p in Model)
+            {
+                <tr>
+                    <td>@p.ID</td>
+                    <td>@p.Name</td>
+                    <td>@p.Price</td>
+                </tr>
+            }
+        </table>
+    </body>
+</html>
