@@ -1,0 +1,11 @@
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Lab_Starter_Files/Module_4/Tutorial_Lab_1/Start/MyWebApp/bin/Debug/netcoreapp2.0/MyWebApp.deps.json
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Lab_Starter_Files/Module_4/Tutorial_Lab_1/Start/MyWebApp/bin/Debug/netcoreapp2.0/MyWebApp.runtimeconfig.json
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Lab_Starter_Files/Module_4/Tutorial_Lab_1/Start/MyWebApp/bin/Debug/netcoreapp2.0/MyWebApp.runtimeconfig.dev.json
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Lab_Starter_Files/Module_4/Tutorial_Lab_1/Start/MyWebApp/bin/Debug/netcoreapp2.0/MyWebApp.dll
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Lab_Starter_Files/Module_4/Tutorial_Lab_1/Start/MyWebApp/bin/Debug/netcoreapp2.0/MyWebApp.pdb
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Lab_Starter_Files/Module_4/Tutorial_Lab_1/Start/MyWebApp/obj/Debug/netcoreapp2.0/MyWebApp.csprojAssemblyReference.cache
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Lab_Starter_Files/Module_4/Tutorial_Lab_1/Start/MyWebApp/obj/Debug/netcoreapp2.0/MyWebApp.csproj.CoreCompileInputs.cache
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Lab_Starter_Files/Module_4/Tutorial_Lab_1/Start/MyWebApp/obj/Debug/netcoreapp2.0/MyWebApp.AssemblyInfoInputs.cache
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Lab_Starter_Files/Module_4/Tutorial_Lab_1/Start/MyWebApp/obj/Debug/netcoreapp2.0/MyWebApp.AssemblyInfo.cs
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Lab_Starter_Files/Module_4/Tutorial_Lab_1/Start/MyWebApp/obj/Debug/netcoreapp2.0/MyWebApp.dll
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Lab_Starter_Files/Module_4/Tutorial_Lab_1/Start/MyWebApp/obj/Debug/netcoreapp2.0/MyWebApp.pdb
