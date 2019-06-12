@@ -1,0 +1,11 @@
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Projects/ConsoleLambdaExp/bin/Debug/netcoreapp2.1/ConsoleLambdaExp.deps.json
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Projects/ConsoleLambdaExp/bin/Debug/netcoreapp2.1/ConsoleLambdaExp.runtimeconfig.json
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Projects/ConsoleLambdaExp/bin/Debug/netcoreapp2.1/ConsoleLambdaExp.runtimeconfig.dev.json
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Projects/ConsoleLambdaExp/bin/Debug/netcoreapp2.1/ConsoleLambdaExp.dll
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Projects/ConsoleLambdaExp/bin/Debug/netcoreapp2.1/ConsoleLambdaExp.pdb
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Projects/ConsoleLambdaExp/obj/Debug/netcoreapp2.1/ConsoleLambdaExp.csprojAssemblyReference.cache
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Projects/ConsoleLambdaExp/obj/Debug/netcoreapp2.1/ConsoleLambdaExp.csproj.CoreCompileInputs.cache
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Projects/ConsoleLambdaExp/obj/Debug/netcoreapp2.1/ConsoleLambdaExp.AssemblyInfoInputs.cache
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Projects/ConsoleLambdaExp/obj/Debug/netcoreapp2.1/ConsoleLambdaExp.AssemblyInfo.cs
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Projects/ConsoleLambdaExp/obj/Debug/netcoreapp2.1/ConsoleLambdaExp.dll
+/home/iiro/Documents/prokkis/edx/MVCApplicationDesign/Projects/ConsoleLambdaExp/obj/Debug/netcoreapp2.1/ConsoleLambdaExp.pdb
