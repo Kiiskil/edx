@@ -1,0 +1,67 @@
+@model MyWebApp.Models.Product
+<html>
+    <body>
+        @Html.ActionLink("Hyperlink 01","TargetAction")<br />
+        @Html.ActionLink("Hyperlink 02","TargetAction", new {id = Model.ID})<br />
+        @Html.ActionLink("Hyperlink 03","TargetAction", new {name = Model.Name})<br />
+        @Html.ActionLink("Hyperlink 04","TargetAction","TargerController", new {id = Model.ID}, new {style = "color:red"})<br />
+
+        <!--PRODUCED CODE ON PAGE
+<html>
+    <body>
+        <a href="/product/TargetAction">Hyperlink 01</a><br />
+        <a href="/product/TargetAction/901">Hyperlink 02</a><br />
+        <a href="/product/TargetAction?name=Rocket">Hyperlink 03</a><br />
+        <a href="/TargerController/TargetAction/901" style="color:red">Hyperlink 04</a><br />
+    </body>
+</html>
+-->
+<!-- basic form-->
+        @using (Html.BeginForm("TargetAction", "TargerController")){
+           <input type="text" name="id" value="@Model.ID" /><br />
+           <input type="text" name="name" value="@Model.Name" /><br />
+           <input type="text" name="price" value="@Model.Price" /><br />
+           <input type="submit" value="Submit" /><br />
+        }
+        <!-- hidden values sent back to server-->
+        @using (Html.BeginForm("TargerAction","TargerController")){
+            @Html.Hidden("id", Model.ID)<br />
+            @Html.TextBox("name", Model.Name)<br />
+            @Html.TextBox("price", Model.Price)<br />
+            <input type="submit" value="Submit" /><br />
+        }
+        <!-- If attributes of model changes, the code does not. That is why best is to use lambda expressions-->
+        <!-- notice -For suffix. TextBox and TextBoxFor does essentially the same thing, but IDE informs devs about changes when using -For-->
+        @using (Html.BeginForm("TargerAction","TargerController")){
+            @Html.HiddenFor(p => p.ID, Model.ID)<br />
+            @Html.TextBoxFor(p => p.Name, Model.Name)<br />
+            @Html.TextBoxFor(p => p.Price, Model.Price)<br />
+            <input type="submit" value="Submit" /><br />
+        }
+        <!-- Another standard html-helper-->
+        @using (Html.BeginForm("TargerAction","TargerController")){
+            @Html.TextBox("user", "Timothy")<br />
+            @Html.Password("password","123456")<br />
+            <input type="submit" value="Login" /><br />
+        }
+        <!-- @Html.ColorfulHeading(2, "blue", "Single Select")
+        @using (Html.BeginForm("TargerAction","TargerController")){
+            <table>
+                <tr>
+                    <th>Buy</th>
+                    <th>Name</th>
+                    <th>Price</th>
+                </tr>
+                @foreach (var p in Model)
+                {
+                    <tr>
+                        <td>@Html.RadioButton("Selected",p.ID)</td>
+                        <td>@p.Name</td>
+                        <td>@p.Price</td>
+                    </tr>
+                }
+            </table><br />
+            <input type="submit" value="checkout" />
+        } -->
+    </body>
+</html>

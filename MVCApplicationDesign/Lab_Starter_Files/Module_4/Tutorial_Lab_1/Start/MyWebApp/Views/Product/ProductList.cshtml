@@ -1,4 +1,4 @@
-@using MyWebApp.Models
+@using MyWebApp.Models;
 @using Microsoft.AspNetCore.Mvc.Rendering;
 @model ProductListVM
 
@@ -34,5 +34,9 @@
                 </tr>
             }
         </table>
+        <!--Another htmlHelper-->
+        @Html.FakeTextBoxFor(p => p.Person.ID)<br />
+        @Html.FakeTextBoxFor(p => p.Person.Name)<br />
+        @Html.FakeTextBoxFor(p => p.Person.Age)<br />
     </body>
 </html>
