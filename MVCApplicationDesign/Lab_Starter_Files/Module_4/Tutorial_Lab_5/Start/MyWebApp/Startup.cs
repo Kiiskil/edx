@@ -27,7 +27,8 @@ namespace MyWebApp {
             } else {
                 app.UseExceptionHandler("/Home/Error");
             }
-
+            //Images, java-scripts and html-pages are all static content and therefore wont be involved in compilation process. They are sent back to enduser directly
+            //app.UseStaticFiles() -method enables usage of static files
             app.UseStaticFiles();
 
             app.UseMvc(routes => {
