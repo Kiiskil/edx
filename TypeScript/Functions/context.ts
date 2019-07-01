@@ -45,4 +45,5 @@ let pickedCard = cardPicker();
 
 alert("card: " + pickedCard.card + " of " + pickedCard.suit);
 
-//If you use --noImplicitThis flag when compiling, it will point out that "this" in "this.suits[pickedSuit]" is of type any.
+//If you use --noImplicitThis flag when compiling, it will point out that "this" in "this.suits[pickedSuit]" is of type any. 
+//So TS has functionality to check "this"-errors.
