@@ -1,0 +1,21 @@
+<html>
+    <body>
+            <button id="reverseArray">Reverse Array</button>
+            <button id="lastItemOfArray">Last Item of Array</button>
+            <button id="firstItemOfArray">First Item of Array </button>
+            <button id="concatenateArray">Concatenate Array</button>
+            <div id="output" style="width:100%;"></div>
+           <!-- /* Now, since modules don't create global variables, we can't use 
+            the html onclick attribute to bind functions to the buttons. We 
+            are going to have to use JavaScript to bind the functions instead.
+             In order to do this, let's first modify the buttons in 
+             index.html so that instead of having an onclick function, 
+             they just have an id matching the ArrayUtilities function we 
+             are referencing. This will make it easy to bind the correct 
+             function to the button. */-->
+             
+             <!-- This tells Require.JS which file is the main module of your application 
+             - in this case aptly named main.js -->
+             <script data-main="/main" src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.3/require.js"></script>
+    </body>
+</html>

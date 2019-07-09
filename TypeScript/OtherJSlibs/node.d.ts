@@ -14,4 +14,4 @@ declare module "path" {
     export var sep: string;
 }
 
-//now we can use three slashes and <reference>node.d.ts and then load modules using import 
+//now we can use three slashes and <reference>node.d.ts and then load modules using import ()
