@@ -1,0 +1,30 @@
+<html>
+    <body>
+            <button id="reverseArray">Reverse Array</button>
+            <button id="lastItemOfArray">Last Item of Array</button>
+            <button id="firstItemOfArray">First Item of Array </button>
+            <button id="concatenateArray">Concatenate Array</button>
+            <div id="output" style="width:100%;"></div>
+           <!-- /* Now, since modules don't create global variables, we can't use 
+            the html onclick attribute to bind functions to the buttons. We 
+            are going to have to use JavaScript to bind the functions instead.
+             In order to do this, let's first modify the buttons in 
+             index.html so that instead of having an onclick function, 
+             they just have an id matching the ArrayUtilities function we 
+             are referencing. This will make it easy to bind the correct 
+             function to the button. */-->
+             <script src="https://cdnjs.cloudflare.com/ajax/libs/zepto/1.2.0/zepto.js"></script>
+             <script src="https://cdnjs.cloudflare.com/ajax/libs/systemjs/0.20.12/system.js"></script>
+             <script>
+                 /* Next, we need to add in the call for SystemJS to load our 
+                 main.js - the compiled output from our main.ts file. 
+                 To do that, we use the SystemJS.import() function. */
+                SystemJS.config({
+                    map: {
+                        'lodash': './node_modules/lodash/lodash.js'
+                    }
+                });
+                 SystemJS.import("main.js")
+             </script>
+    </body>
+</html>
