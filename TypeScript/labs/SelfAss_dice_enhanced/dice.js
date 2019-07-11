@@ -15,6 +15,7 @@ var __extends = (this && this.__extends) || (function () {
 exports.__esModule = true;
 /* ///<reference path="stylingProp.ts" />
 !!! See stylinProp.ts for explanation */
+//This file contains a namespace fro styling and dieRoller as module imported in main.ts
 var stylingProp;
 (function (stylingProp) {
     //styling properties of dice

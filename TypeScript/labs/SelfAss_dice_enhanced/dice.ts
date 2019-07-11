@@ -1,5 +1,6 @@
 /* ///<reference path="stylingProp.ts" /> 
 !!! See stylinProp.ts for explanation */
+//This file contains a namespace fro styling and dieRoller as module imported in main.ts
 namespace stylingProp{
     //styling properties of dice
     let squareSizeNum: number = 100; //preferred styling of default values
@@ -25,7 +26,7 @@ interface DieTypes{
 export {DieTypes};
 class Die {
     div: Element;
-    
+
     constructor(div: Element){
         this.div = div;
     }

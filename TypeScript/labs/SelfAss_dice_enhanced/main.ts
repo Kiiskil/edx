@@ -1,16 +1,16 @@
 import DieRoller from './dice.js' //default
 import { DieTypes } from './dice.js' //declared
 
+import * as _ from "lodash"; //External library named lodash
+import * as Chance from "chance";
+
 
 
 let getRandomIntInclusive: Function = (min, max) => {
-    min = Math.ceil(min);
-    max = Math.floor(max);
-    return Math.floor(Math.random() * (max - min +1)) + min;
+    return Chance().integer({min,max});
 }
 
 let dice: Array<DieTypes> = [];
-
 
 //push four objects made according to interface to array
 for (let index: number = 0; index < 4; index++){
@@ -19,19 +19,23 @@ for (let index: number = 0; index < 4; index++){
     })
 }
 
-dice.map((elem) => {
-    let newDie = new DieRoller(elem.div);
-    console.log(newDie);
-    let rndValue: number = getRandomIntInclusive(0,5);
-    newDie.rollDie(rndValue);
-    document.body.appendChild(elem.div);
-})
+//Using lodash to iterate over dice-array
+let rollDice: Function = () => {
+    _.map(dice, elem => {
+        let newDie = new DieRoller(elem.div);
+        console.log(newDie);
+        let rndValue: number = getRandomIntInclusive(0,5);
+        newDie.rollDie(rndValue);
+        document.body.appendChild(elem.div);
+    })
+}
 let rollButton = document.createElement('button');
 rollButton.textContent = "Roll dices";
 (rollButton as HTMLElement).onclick = (event) => {
-    window.location.reload();
+    rollDice();
 }
 document.body.appendChild(rollButton);
+rollDice();
 
 //First we make an array (dice) of DieTypes (interface aka forced to certain type), then we create divs and assign them to DieType-object's properties (in for-loop)
 //then we iterate over each element in dice and send array-element's div-property to DieRoller-constructor (aka create new instances of DieRoller which is a subclass of Die-class)
